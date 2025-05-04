@@ -1,4 +1,4 @@
-# 📷 compress-heavy-images-fancy
+# 📷 compress-heavy-images-for-Line
 
 *A Python CLI tool that shrinks huge JPEG/PNG files just enough to sneak under size limits—without changing their resolution—while giving you a slick, colour‑rich progress bar.*
 
