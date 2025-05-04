@@ -4,7 +4,7 @@
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/python-3.8%2B-blue">
-  <img alt="License" src="https://img.shields.io/github/license/your-username/compress-heavy-images-fancy">  
+  <img alt="License" src="https://img.shields.io/github/license/anderson155081/Line-Image-Compressor">  
   <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen">
 </p>
 
